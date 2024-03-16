@@ -6,6 +6,9 @@
 # Dataset
 The dataset consists of 1D data points, where each point has a single feature. The target variable is binary (0 or 1), representing the two classes we want to classify.
 
+
+You Can Find The DataSet In Here    https://drive.google.com/file/d/14M4--IULOqqwEmoc7Qkx-U4h13FLr4yf/view?usp=drive_link
+
 # Approach  
 
 
