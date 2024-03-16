@@ -1,7 +1,8 @@
 # DeepLearning-Approach-For-A-binary-Classification-using-1D-DataSet
-# Overview This project explores a deep learning approach for binary classification using a 1D dataset. The goal is to build a model that can accurately classify instances into one of two classes based on the input features.
+# Overview 
+This project explores a deep learning approach for binary classification using a 1D dataset. The goal is to build a model that can accurately classify instances into one of two classes based on the input features.
 
-
+# Link To The Code Is At The Bottom 
 
 # Dataset
 The dataset consists of 1D data points, where each point has a single feature. The target variable is binary (0 or 1), representing the two classes we want to classify.
@@ -38,3 +39,7 @@ Experiment with different hyperparameters (e.g., learning rate, batch size) to o
 
 
 # Saveing Our Model
+
+
+
+You Can View The Full Code Here :  https://drive.google.com/file/d/1TJ6_J6tekAI4IzItffpYuhSUKPQoA8ur/view?usp=sharing
